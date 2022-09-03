@@ -1,2 +1,5 @@
 # Spring Data JPA Relationship Example
-SpringDataJPA-RelationshipExample
+About Spring Data JPA Relationship
+- Many to Many
+- Many to One
+- One to One
